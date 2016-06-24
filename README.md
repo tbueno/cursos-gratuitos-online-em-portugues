@@ -6,26 +6,26 @@ Esta é uma lista curada de cursos dispońiveis online em língua portuguesa.
 
 Este repositório possui [código-aberto](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto) e qualquer pessoa pode contribuir com sugestões, atualizações e correções.
 
-
-
 # Tópicos
 
+
 ## Arte e Design
+
 
 * [A complexidade sensível: Um paralelo entre videogames e arte](https://pt.coursera.org/learn/videogames)
 * [Desenho arquitetônico](http://eadsenaies.com.br/cursos-senai/desenho-arquitetonico/)
 * [Pixar in a Box](https://pt.khanacademy.org/partner-content/pixar-latam)
 * [Photoshop CC](http://www.ead.senac.br/cursos-livres/photoshop/)
 
+## Ciências
 
-## Ciência
 
 * [A evolução e a árvore da vida](https://pt.khanacademy.org/science/biology/her)
 * [Agente de Desenvolvimento Socioambiental](http://ead.senac.br/cursos-livres/agente-de-desenvolvimento-socioambiental-psg/)
 * [Biologia humana](https://pt.khanacademy.org/science/biology/human-biology)
 * [Cinética](https://pt.khanacademy.org/science/chemistry/chem-kinetics)
 * [Circuitos](https://pt.khanacademy.org/science/physics/circuits-topic)
-* [Curso intensivo: Biologia e Ecologia](https://pt.khanacademy.org/science/biology/crash-course-bio-ecology)
+* [Curso intensivo, Biologia e Ecologia]( https://pt.khanacademy.org/science/biology/crash-course-bio-ecology)
 * [Descobertas e projetos](https://pt.khanacademy.org/science/physics/discoveries)
 * [Divisão celular](https://pt.khanacademy.org/science/biology/cellular-molecular-biology)
 * [Educação Ambiental](http://eadsenaies.com.br/cursos-senai/educacao-ambiental/)
@@ -65,8 +65,8 @@ Este repositório possui [código-aberto](https://pt.wikipedia.org/wiki/C%C3%B3d
 * [Átomos, compostos e íons](https://pt.khanacademy.org/science/chemistry/atomic-structure-and-properties)
 * [Óptica geométrica](https://pt.khanacademy.org/science/physics/geometric-optics)
 
-
 ## Ciência da Computação
+
 
 * [Algoritmos](https://pt.khanacademy.org/computing/computer-science/algorithms)
 * [Big Data, Computação em nuvem e Tecnologias de CDN emergentes](https://pt.coursera.org/learn/big-data-cloud-computing-cdn)
@@ -76,23 +76,23 @@ Este repositório possui [código-aberto](https://pt.wikipedia.org/wiki/C%C3%B3d
 * [Processamento Digital de Sinais - Amostragem](https://pt.coursera.org/learn/pds)
 * [Uma jornada pela criptografia](https://pt.khanacademy.org/computing/computer-science/cryptography)
 
-
 ## Ciências Sociais
+
 
 * [Ética e Cidadania](http://eadsenaies.com.br/cursos-senai/etica-e-cidadania/)
 * [Legislação Trabalhista](http://eadsenaies.com.br/cursos-senai/legislacao-trabalhista/)
 * [Psicologia Social](https://pt.coursera.org/course/socialpsychology)
 * [Agente de Projetos Sociais](http://ead.senac.br/cursos-livres/agente-de-projetos-sociais-psg/)
 
-
 ## Educação e Ensino
+
 
 * [Organize-se: como ser um professor equilibrado](https://pt.coursera.org/learn/together-teacher)
 * [Fundamentos das Práticas de Ensino para a Aprendizagem 1: Introdução](https://pt.coursera.org/learn/teaching)
 * [Explorando os recursos educacionais da Khan Academy](https://pt.coursera.org/learn/khanacademy)
 
-
 ## Engenharia
+
 
 * [ Indústria da Cerâmica Vermelha: Trabalho Seguro e Organizado, EPIs e EPCs](http://eadsenaies.com.br/cursos-sesi/industria-da-ceramica-vermelha-trabalho-seguro-e-organizado-epis-e-epcs/)
 * [Como Funcionam as coisa](https://pt.coursera.org/learn/how-things-work)
@@ -102,9 +102,9 @@ Este repositório possui [código-aberto](https://pt.wikipedia.org/wiki/C%C3%B3d
 * [Engenharia reversa](https://pt.khanacademy.org/science/electrical-engineering/reverse-engin)
 * [Escrita fiscal](http://www.ead.senac.br/cursos-livres/escrita-fiscal/)
 * [Fundamentos de Logística](http://eadsenaies.com.br/cursos-senai/fundamentos-de-logistica/)
-* [Indústria da Madeira: Colheita, Empilhadeiras, Enlonamento e EPIs](http://eadsenaies.com.br/cursos-sesi/industria-da-madeira-colheita-empilhadeiras-enlonamento-e-epis/)
+* [Indústria da Madeira: Colheita, Empilhadeiras, Enlonamento e EPIs](http://eadsenaies.com.br/cursos-sesi}/industria-da-madeira-colheita-empilhadeiras-enlonamento-e-epis/)
 * [Indústria de Cal e Calcário: EPIs, EPCs, Movimentação de Cargas e Situações de Emergência.](http://eadsenaies.com.br/cursos-sesi/industria-de-cal-e-calcario-epis-epcs-movimentacao-de-cargas-e-situacoes-de-emergencia/)
-* [Indústria Moveleira: Máquinas, EPIs e EPCs](http://eadsenaies.com.br/cursos-sesi/industria-moveleira-maquinas-epis-e-epcs/)
+* [Indústria Moveleira: Máquinas, EPIs e EPCs](http://eadsenaies.com.br/cursos-sesi}/industria-moveleira-maquinas-epis-e-epcs/)
 * [Introdução ao Controle de Sistemas](https://pt.coursera.org/learn/controle)
 * [Introdução ao Desenvolvimento Sustentável](https://pt.coursera.org/learn/sustainabledevelopment1)
 * [Introdução à sustentabilidade](https://pt.coursera.org/learn/sustainability)
@@ -112,51 +112,52 @@ Este repositório possui [código-aberto](https://pt.wikipedia.org/wiki/C%C3%B3d
 * [Legislação Trabalhista](http://www.ead.senac.br/cursos-livres/legislacao-trabalhista/)
 * [Metrologia](http://eadsenaies.com.br/cursos-senai/metrologia/)
 * [Noções Básicas de Mecânica Automotiva](http://eadsenaies.com.br/cursos-senai/nocoes-basicas-de-mecanica-automotiva/)
-* [O ciclo dos metais: a importância da mineração urbana para uma economia circular](https://pt.coursera.org/course/metals)
+* [O ciclo dos metais: a importância da mineração urbana para uma economia circular](https://pt.coursera.org/course}/metals)
 * [Robótica Lego](https://pt.khanacademy.org/science/electrical-engineering/lego-robotics)
 * [Trabalho em Altura](http://eadsenaies.com.br/cursos-sesi/trabalho-em-altura/)
 * [Trabalho em Espaços Confinados](http://eadsenaies.com.br/cursos-sesi/trabalho-em-espacos-confinados/)
 
-
 ## Humanas
 
-* [Acordo Ortográfico: a nova ortografia da Língua Portuguesa] (http://www.ead.senac.br/cursos-livres/acordo-ortografico-a-nova-ortografia-da-lingua-portuguesa/)
-* [Alemão - Foundation] (http://www.ead.senac.br/cursos-livres/alemao-foundation)
-* [Aprendendo a Aprender: poderosas ferramentas mentais para ajudá-lo a dominar temas complexos.] (https://pt.coursera.org/learn/learning-how-to-learn)
-* [Chinês/Mandarim - Foundation] (http://www.ead.senac.br/cursos-livres/chinesmandarim-foundation/)
-* [Comunicação Efetiva] (http://eadsenaies.com.br/cursos-sesi/comunicacao-efetiva/)
-* [Comunicação no Foco Organizacional] (http://eadsenaies.com.br/cursos-sesi/comunicacao-no-foco-organizacional/)
-* [Coreano - Foundation] (http://www.ead.senac.br/cursos-livres/coreano-foundation/)
-* [Espanhol Espanha - Foundation] (http://www.ead.senac.br/cursos-livres/espanhol-espanha-foundation/)
-* [Espanhol Latino - Foundation] (http://www.ead.senac.br/cursos-livres/espanhol-latino-foundation/)
-* [Filipino - Foundation] (http://www.ead.senac.br/cursos-livres/filipino-foundation/)
-* [Francês - Foundation] (http://www.ead.senac.br/cursos-livres/frances-foundation/)
-* [Fundamentos do Google para o Ensino] (https://pt.coursera.org/learn/fundamentosgoogle)
-* [Grego - Foundation] (http://www.ead.senac.br/cursos-livres/grego-foundation/)
-* [Hebraico - Foundation] (http://www.ead.senac.br/cursos-livres/hebraico-foundation/)
-* [Hindi - Foundation] (http://www.ead.senac.br/cursos-livres/hindi-foundation/)
-* [Holandês - Foundation] (http://www.ead.senac.br/cursos-livres/holandes-foundation/)
-* [Inglês Americano - Foundation] (http://www.ead.senac.br/cursos-livres/ingles-americano-foundation/)
-* [Inglês Britânico - Foundation] (http://www.ead.senac.br/cursos-livres/ingles-britanico-foundation/)
-* [Irlandês - Foundation] (http://www.ead.senac.br/cursos-livres/irlandes-foundation/)
-* [Italiano - Foundation] (http://www.ead.senac.br/cursos-livres/italiano-foundation/)
-* [Japonês - Foundation] (http://www.ead.senac.br/cursos-livres/japones-foundation/)
-* [LIBRAS Básico - Língua Brasileira de Sinais] (http://www.ead.senac.br/cursos-livres/libras-basico-lingua-brasileira-de-sinais/)
-* [Língua Portuguesa] (http://ead.senac.br/cursos-livres/lingua-portuguesa)
-* [Persa - Foundation] (http://www.ead.senac.br/cursos-livres/persa-foundation/)
-* [Pluralidades em Português Brasileiro] (https://pt.coursera.org/learn/brasileiro-portugues)
-* [Polonês - Foundation] (http://www.ead.senac.br/cursos-livres/polones-foundation/)
-* [Português - Foundation] (http://www.ead.senac.br/cursos-livres/portugues-foundation/)
-* [Russo - Foundation] (http://www.ead.senac.br/cursos-livres/russo-foundation/)
-* [Sueco - Foundation] (http://www.ead.senac.br/cursos-livres/sueco-foundation/)
-* [Turco - Foundation] (http://www.ead.senac.br/cursos-livres/turco-foundation/)
-* [Vietnamita - Foundation] (http://www.ead.senac.br/cursos-livres/vietnamita-foundation/)
-* [Árabe - Foundation] (http://www.ead.senac.br/cursos-livres/arabe-foundation/)
 
+* [Acordo Ortográfico: a nova ortografia da Língua Portuguesa](http://www.ead.senac.br/cursos-livres}/acordo-ortografico-a-nova-ortografia-da-lingua-portuguesa/)
+* [Alemão - Foundation](http://www.ead.senac.br/cursos-livres/alemao-foundation)
+* [Aprendendo a Aprender: poderosas ferramentas mentais para ajudá-lo a dominar temas complexos.](https://pt.coursera.org/learn/learning-how-to-learn)
+* [Chinês/Mandarim - Foundation](http://www.ead.senac.br/cursos-livres/chinesmandarim-foundation/)
+* [Comunicação Efetiva](http://eadsenaies.com.br/cursos-sesi/comunicacao-efetiva/)
+* [Comunicação no Foco Organizacional](http://eadsenaies.com.br/cursos-sesi/comunicacao-no-foco-organizacional/)
+* [Coreano - Foundation](http://www.ead.senac.br/cursos-livres/coreano-foundation/)
+* [Espanhol Espanha - Foundation](http://www.ead.senac.br/cursos-livres/espanhol-espanha-foundation/)
+* [Espanhol Latino - Foundation](http://www.ead.senac.br/cursos-livres/espanhol-latino-foundation/)
+* [Filipino - Foundation](http://www.ead.senac.br/cursos-livres/filipino-foundation/)
+* [Francês - Foundation](http://www.ead.senac.br/cursos-livres/frances-foundation/)
+* [Fundamentos do Google para o Ensino](https://pt.coursera.org/learn/fundamentosgoogle)
+* [Grego - Foundation](http://www.ead.senac.br/cursos-livres/grego-foundation/)
+* [Hebraico - Foundation](http://www.ead.senac.br/cursos-livres/hebraico-foundation/)
+* [Hindi - Foundation](http://www.ead.senac.br/cursos-livres/hindi-foundation/)
+* [Holandês - Foundation](http://www.ead.senac.br/cursos-livres/holandes-foundation/)
+* [Inglês Americano - Foundation](http://www.ead.senac.br/cursos-livres/ingles-americano-foundation/)
+* [Inglês Britânico - Foundation](http://www.ead.senac.br/cursos-livres/ingles-britanico-foundation/)
+* [Irlandês - Foundation](http://www.ead.senac.br/cursos-livres/irlandes-foundation/)
+* [Italiano - Foundation](http://www.ead.senac.br/cursos-livres/italiano-foundation/)
+* [Japonês - Foundation](http://www.ead.senac.br/cursos-livres/japones-foundation/)
+* [LIBRAS Básico - Língua Brasileira de Sinais](http://www.ead.senac.br/cursos-livres/libras-basico-lingua-brasileira-de-sinais/)
+* [Língua Portuguesa](http://ead.senac.br/cursos-livres/lingua-portuguesa)
+* [Persa - Foundation](http://www.ead.senac.br/cursos-livres/persa-foundation/)
+* [Pluralidades em Português Brasileiro](https://pt.coursera.org/learn/brasileiro-portugues)
+* [Polonês - Foundation](http://www.ead.senac.br/cursos-livres/polones-foundation/)
+* [Português - Foundation](http://www.ead.senac.br/cursos-livres/portugues-foundation/)
+* [Russo - Foundation](http://www.ead.senac.br/cursos-livres/russo-foundation/)
+* [Sueco - Foundation](http://www.ead.senac.br/cursos-livres/sueco-foundation/)
+* [Turco - Foundation](http://www.ead.senac.br/cursos-livres/turco-foundation/)
+* [Vietnamita - Foundation](http://www.ead.senac.br/cursos-livres/vietnamita-foundation/)
+* [Árabe - Foundation](http://www.ead.senac.br/cursos-livres/arabe-foundation/)
 
 ## Matemática
 
+
 * [Aritmética](https://pt.khanacademy.org/math/arithmetic)
+* [Cálculo](https://pt.khanacademy.org/math/calculus-home)
 * [Equações diferenciais](https://pt.khanacademy.org/math/differential-equations)
 * [Fundamentos de matemática](https://pt.khanacademy.org/math/early-math?t=table-of-contents)
 * [Geometria](https://pt.khanacademy.org/math/geometry-home)
@@ -167,11 +168,9 @@ Este repositório possui [código-aberto](https://pt.wikipedia.org/wiki/C%C3%B3d
 * [Trigonometria](https://pt.khanacademy.org/math/trigonometry)
 * [Álgebra linear](https://pt.khanacademy.org/math/linear-algebra)
 * [Álgebra](https://pt.khanacademy.org/math/algebra-home)
-Cálculo https://pt.khanacademy.org/math/calculus-home
-
-
 
 ## Negócios e Gerência
+
 
 * [Administrando seu dinheiro](http://eadsenaies.com.br/cursos-sesi/administrando-o-seu-dinheiro/)
 * [Administração de Conflitos](http://www.ead.senac.br/cursos-livres/administracao-de-conflitos/)
@@ -188,7 +187,7 @@ Cálculo https://pt.khanacademy.org/math/calculus-home
 * [Decisões de produção e lucro econômico](https://pt.khanacademy.org/economics-finance-domain/microeconomics/firm-economic-profit)
 * [Declarações contábeis e financeiras](https://pt.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme)
 * [Demanda e oferta agregada](https://pt.khanacademy.org/economics-finance-domain/macroeconomics/aggregate-supply-demand-topic)
-* [Dinheiro, operações bancárias e bancos centrais](https://pt.khanacademy.org/economics-finance-domain/core-finance/money-and-banking)
+* [Dinheiro, operações bancárias e bancos centrais](https://pt.khanacademy.org/economics-finance-domain/core-financ}e/money-and-banking)
 * [E-mail Marketing](http://www.ead.senac.br/cursos-livres/e-mail-marketing/)
 * [Elasticidade](https://pt.khanacademy.org/economics-finance-domain/microeconomics/elasticity-tutorial)
 * [Empreendedorismo](http://eadsenaies.com.br/cursos-senai/empreendedorismo/)
@@ -202,7 +201,7 @@ Cálculo https://pt.khanacademy.org/math/calculus-home
 * [Finanças Pessoais - Planejamento e Controle - WEBTV](http://www.ead.senac.br/cursos-livres/financas-pessoais-planejamento-e-controle-webtv/)
 * [Finanças Pessoais](http://eadsenaies.com.br/cursos-senai/financas-pessoais/)
 * [Formas de concorrência](https://pt.khanacademy.org/economics-finance-domain/microeconomics/perfect-competition-topic)
-* [Função do consumo." "Propensão marginal ao consumo e o multiplicador." "Cruz keynesiana e modelo IS-LM.](https://pt.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic)
+* [Função do consumo. Propensão marginal ao consumo e o multiplicador. Cruz keynesiana e modelo IS-LM.](https://pt.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic)
 * [Gerenciamento de Projetos: O Essencial para o Sucesso](https://pt.coursera.org/learn/project-management-basics)
 * [Gerência de Lojas](http://www.ead.senac.br/cursos-livres/gerencia-de-lojas/)
 * [Gestão de Salões de Beleza](http://www.ead.senac.br/cursos-livres/gestao-de-saloes-de-beleza-webtv/)
@@ -242,9 +241,8 @@ Cálculo https://pt.khanacademy.org/math/calculus-home
 * [Técnicas de Fidelização - Fazendo o Cliente Voltar](http://www.ead.senac.br/cursos-livres/tecnicas-de-fidelizacao-fazendo-o-cliente-voltar/)
 * [Técnicas de Vendas](http://www2.espm.br/cursos/educacao-distancia/cursos-abertos/tecnicas-de-vendas)
 
-
-
 ## Programação
+
 
 * [Arquitetura de Software em Projetos Ágeis](https://pt.coursera.org/learn/arquitetura-de-software-projetos-ageis)
 * [Bem-vindo ao SQL](https://pt.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql)
@@ -268,7 +266,7 @@ Cálculo https://pt.khanacademy.org/math/calculus-home
 * [Introdução a SQL: Consulta e gerenciamento de dados](https://pt.khanacademy.org/computing/computer-programming/sql)
 * [JavaScript Avançado: Jogos & Visualizações](https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 * [JS avançado: Simulações Naturais](https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations)
-* [Lógica de Programação](http://eadsenaies.com.br/cursos-senai/logica-de-programacao/) 
+* [Lógica de Programação](http://eadsenaies.com.br/cursos-senai/logica-de-programacao/ )
 * [Orientação a Objetos com Java](https://pt.coursera.org/learn/orientacao-a-objetos-com-java)
 * [Princípios de Desenvolvimento Ágil de Software](https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software)
 * [Projeto Final: Aplicativo para Web com Componente Gamificado](https://pt.coursera.org/learn/projeto-final--aplicativo-para-web-com-componente-gamificado)
@@ -277,12 +275,11 @@ Cálculo https://pt.khanacademy.org/math/calculus-home
 * [Tecnologia da Informação e Comunicação](http://eadsenaies.com.br/cursos-senai/tecnologia-da-informacao-e-comunicacao/)
 * [Técnicas Avançadas para Projeto de Software](https://pt.coursera.org/learn/tecnicas-avancadas-para-projeto-de-software)
 
+## Saúde e Medicina
 
-
-##  Saúde e Medicina
 
 * [Aproveitamento integral de alimentos](http://www.ead.senac.br/cursos-livres/aproveitamento-integral-de-alimentos-webtv/)
-* [Boas Práticas e Controles Operacionais Essenciais para Serviços de Alimentação (NBR 15635)](http://www.ead.senac.br/cursos-livres/boas-praticas-e-controles-operacionais-essenciais-para-servicos-de-alimentacao-(nbr-15635)/)
+* [Boas Práticas e Controles Operacionais Essenciais para Serviços de Alimentação (NBR 15635)](http://www.ead.senac.br/cursos-livres/boas-praticas-e-controles-operacionais-essenciais-para-servicos-de-alimentacao-nbr-15635/)
 * [Boas Práticas para Serviços de Alimentação e Distribuição](http://www.ead.senac.br/cursos-livres/boas-praticas-para-servicos-de-alimentacao-e-distribuicao/)
 * [Brigadeiro Gourmet](http://www.ead.senac.br/cursos-livres/brigadeiro-gourmet-webtv/)
 * [Congelamento de Alimentos](http://www.ead.senac.br/cursos-livres/congelamento-de-alimentos-webtv/)
@@ -292,7 +289,7 @@ Cálculo https://pt.khanacademy.org/math/calculus-home
 * [Cozinha Árabe](http://www.ead.senac.br/cursos-livres/cozinha-arabe-webtv/)
 * [Culinária Light e Diet](http://www.ead.senac.br/cursos-livres/culinaria-light-e-diet-webtv/)
 * [Culinária Trivial](http://www.ead.senac.br/cursos-livres/culinaria-trivial-webtv/)
-* [Departamento de A&B (alimentos & bebidas) na Hotelaria](http://www.ead.senac.br/cursos-livres/departamento-de-ab-(alimentos-bebidas)-na-hotelaria/)
+* [Departamento de A&B (alimentos & bebidas) na Hotelaria](http://www.ead.senac.br/cursos-livres/departamento-de-ab-alimentos-bebidas-na-hotelaria/)
 * [Enogastronomia](http://www.ead.senac.br/cursos-livres/enogastronomia-webtv/)
 * [Gastronomia Funcional](http://www.ead.senac.br/cursos-livres/gastronomia-funcional-webtv/)
 * [Introdução aos vinhos](http://www.ead.senac.br/cursos-livres/introducao-aos-vinhos-webtv/)

@@ -1,0 +1,1107 @@
+{
+    "categorias": [
+        {
+            "cursos": [
+                {
+                    "name": "A complexidade sensível: Um paralelo entre videogames e arte",
+                    "url": "https://pt.coursera.org/learn/videogames"
+                },
+                {
+                    "name": "Desenho arquitetônico",
+                    "url": "http://eadsenaies.com.br/cursos-senai/desenho-arquitetonico/"
+                },
+                {
+                    "name": "Pixar in a Box",
+                    "url": "https://pt.khanacademy.org/partner-content/pixar-latam"
+                },
+                {
+                    "name": "Photoshop CC",
+                    "url": "http://www.ead.senac.br/cursos-livres/photoshop/"
+                }
+            ],
+            "name": "Arte e Design"
+        },
+        {
+            "cursos": [
+                {
+                    "name": "A evolução e a árvore da vida",
+                    "url": "https://pt.khanacademy.org/science/biology/her"
+                },
+                {
+                    "name": "Agente de Desenvolvimento Socioambiental",
+                    "url": "http://ead.senac.br/cursos-livres/agente-de-desenvolvimento-socioambiental-psg/"
+                },
+                {
+                    "name": "Biologia humana",
+                    "url": "https://pt.khanacademy.org/science/biology/human-biology"
+                },
+                {
+                    "name": "Cinética",
+                    "url": "https://pt.khanacademy.org/science/chemistry/chem-kinetics"
+                },
+                {
+                    "name": "Circuitos",
+                    "url": "https://pt.khanacademy.org/science/physics/circuits-topic"
+                },
+                {
+                    "name": "Curso intensivo, Biologia e Ecologia",
+                    "url": " https://pt.khanacademy.org/science/biology/crash-course-bio-ecology"
+                },
+                {
+                    "name": "Descobertas e projetos",
+                    "url": "https://pt.khanacademy.org/science/physics/discoveries"
+                },
+                {
+                    "name": "Divisão celular",
+                    "url": "https://pt.khanacademy.org/science/biology/cellular-molecular-biology"
+                },
+                {
+                    "name": "Educação Ambiental",
+                    "url": "http://eadsenaies.com.br/cursos-senai/educacao-ambiental/"
+                },
+                {
+                    "name": "Eletroquímica e reações redox",
+                    "url": "https://pt.khanacademy.org/science/chemistry/oxidation-reduction"
+                },
+                {
+                    "name": "Energia e enzimas",
+                    "url": "https://pt.khanacademy.org/science/biology/energy-and-enzymes"
+                },
+                {
+                    "name": "Equilíbrio químico",
+                    "url": "https://pt.khanacademy.org/science/chemistry/chemical-equilibrium"
+                },
+                {
+                    "name": "Estados da matéria e forças intermoleculares",
+                    "url": "https://pt.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces"
+                },
+                {
+                    "name": "Estrutura celular",
+                    "url": "https://pt.khanacademy.org/science/biology/structure-of-a-cell"
+                },
+                {
+                    "name": "Estrutura eletrônica de átomos",
+                    "url": "https://pt.khanacademy.org/science/chemistry/electronic-structure-of-atoms"
+                },
+                {
+                    "name": "Explicações da comunidade",
+                    "url": "https://pt.khanacademy.org/science/biology/bio-community-explanations"
+                },
+                {
+                    "name": "Fluidos",
+                    "url": "https://pt.khanacademy.org/science/physics/fluids"
+                },
+                {
+                    "name": "Forças e as leis de movimento de Newton",
+                    "url": "https://pt.khanacademy.org/science/physics/forces-newtons-laws"
+                },
+                {
+                    "name": "Fotossíntese",
+                    "url": "https://pt.khanacademy.org/science/biology/photosynthesis-in-plants"
+                },
+                {
+                    "name": "Gases e teoria cinético-molecular",
+                    "url": "https://pt.khanacademy.org/science/chemistry/gases-and-kinetic-molecular-theory"
+                },
+                {
+                    "name": "Genética clássica e genética molecular",
+                    "url": "https://pt.khanacademy.org/science/biology/classical-genetics"
+                },
+                {
+                    "name": "História da vida na Terra",
+                    "url": "https://pt.khanacademy.org/science/biology/history-of-life-on-earth"
+                },
+                {
+                    "name": "Impactos e momento linear",
+                    "url": "https://pt.khanacademy.org/science/physics/linear-momentum"
+                },
+                {
+                    "name": "Ligações químicas",
+                    "url": "https://pt.khanacademy.org/science/chemistry/chemical-bonds"
+                },
+                {
+                    "name": "Macromoléculas",
+                    "url": "https://pt.khanacademy.org/science/biology/macromolecules"
+                },
+                {
+                    "name": "Membranas e transporte",
+                    "url": "https://pt.khanacademy.org/science/biology/membranes-and-transport"
+                },
+                {
+                    "name": "Momento, torque e momento angular",
+                    "url": "https://pt.khanacademy.org/science/physics/torque-angular-momentum"
+                },
+                {
+                    "name": "Movimento bidimensional",
+                    "url": "https://pt.khanacademy.org/science/physics/two-dimensional-motion"
+                },
+                {
+                    "name": "Movimento unidimensional",
+                    "url": "https://pt.khanacademy.org/science/physics/one-dimensional-motion"
+                },
+                {
+                    "name": "Propriedades do carbono",
+                    "url": "https://pt.khanacademy.org/science/biology/properties-of-carbon"
+                },
+                {
+                    "name": "Química da vida",
+                    "url": "https://pt.khanacademy.org/science/biology/chemistry--of-life"
+                },
+                {
+                    "name": "Química nuclear",
+                    "url": "https://pt.khanacademy.org/science/chemistry/nuclear-chemistry"
+                },
+                {
+                    "name": "Reações químicas e estequiometria",
+                    "url": "https://pt.khanacademy.org/science/chemistry/chemical-reactions-stoichiome"
+                },
+                {
+                    "name": "Reguladores, titulações e equilíbrios de solubilidade",
+                    "url": "https://pt.khanacademy.org/science/chemistry/acid-base-equilibrium"
+                },
+                {
+                    "name": "Respiração celular",
+                    "url": "https://pt.khanacademy.org/science/biology/cellular-respiration-and-fermentation"
+                },
+                {
+                    "name": "Sinalização celular",
+                    "url": "https://pt.khanacademy.org/science/biology/cell-signaling"
+                },
+                {
+                    "name": "Tabela periódica",
+                    "url": "https://pt.khanacademy.org/science/chemistry/periodic-table"
+                },
+                {
+                    "name": "Termodinâmica",
+                    "url": "https://pt.khanacademy.org/science/chemistry/thermodynamics-chemistry"
+                },
+                {
+                    "name": "Termodinâmica",
+                    "url": "https://pt.khanacademy.org/science/physics/thermodynamics"
+                },
+                {
+                    "name": "Trabalho e energia",
+                    "url": "https://pt.khanacademy.org/science/physics/work-and-energy"
+                },
+                {
+                    "name": "Ácidos e bases",
+                    "url": "https://pt.khanacademy.org/science/chemistry/acids-and-bases-topic"
+                },
+                {
+                    "name": "Água, ácidos e bases",
+                    "url": "https://pt.khanacademy.org/science/biology/water-acids-and-bases"
+                },
+                {
+                    "name": "Átomos, compostos e íons",
+                    "url": "https://pt.khanacademy.org/science/chemistry/atomic-structure-and-properties"
+                },
+                {
+                    "name": "Óptica geométrica",
+                    "url": "https://pt.khanacademy.org/science/physics/geometric-optics"
+                }
+            ],
+            "name": "Ciências"
+        },
+        {
+            "cursos": [
+                {
+                    "name": "Algoritmos",
+                    "url": "https://pt.khanacademy.org/computing/computer-science/algorithms"
+                },
+                {
+                    "name": "Big Data, Computação em nuvem e Tecnologias de CDN emergentes",
+                    "url": "https://pt.coursera.org/learn/big-data-cloud-computing-cdn"
+                },
+                {
+                    "name": "Ciência da Computação 101",
+                    "url": "https://pt.coursera.org/course/cs101"
+                },
+                {
+                    "name": "Internet 101",
+                    "url": "https://pt.khanacademy.org/computing/computer-science/internet-intro"
+                },
+                {
+                    "name": "Jornada à teoria da informação",
+                    "url": "https://pt.khanacademy.org/computing/computer-science/informationtheory"
+                },
+                {
+                    "name": "Processamento Digital de Sinais - Amostragem",
+                    "url": "https://pt.coursera.org/learn/pds"
+                },
+                {
+                    "name": "Uma jornada pela criptografia",
+                    "url": "https://pt.khanacademy.org/computing/computer-science/cryptography"
+                }
+            ],
+            "name": "Ciência da Computação"
+        },
+        {
+            "cursos": [
+                {
+                    "name": "Ética e Cidadania",
+                    "url": "http://eadsenaies.com.br/cursos-senai/etica-e-cidadania/"
+                },
+                {
+                    "name": "Legislação Trabalhista",
+                    "url": "http://eadsenaies.com.br/cursos-senai/legislacao-trabalhista/"
+                },
+                {
+                    "name": "Psicologia Social",
+                    "url": "https://pt.coursera.org/course/socialpsychology"
+                },
+                {
+                    "name": "Agente de Projetos Sociais",
+                    "url": "http://ead.senac.br/cursos-livres/agente-de-projetos-sociais-psg/"
+                }
+            ],
+            "name": "Ciências Sociais"
+        },
+        {
+            "cursos": [
+                {
+                    "name": "Organize-se: como ser um professor equilibrado",
+                    "url": "https://pt.coursera.org/learn/together-teacher"
+                },
+                {
+                    "name": "Fundamentos das Práticas de Ensino para a Aprendizagem 1: Introdução",
+                    "url": "https://pt.coursera.org/learn/teaching"
+                },
+                {
+                    "name": "Explorando os recursos educacionais da Khan Academy",
+                    "url": "https://pt.coursera.org/learn/khanacademy"
+                }
+            ],
+            "name": "Educação e Ensino"
+        },
+        {
+            "cursos": [
+                {
+                    "name": " Indústria da Cerâmica Vermelha: Trabalho Seguro e Organizado, EPIs e EPCs",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/industria-da-ceramica-vermelha-trabalho-seguro-e-organizado-epis-e-epcs/"
+                },
+                {
+                    "name": "Como Funcionam as coisa",
+                    "url": "https://pt.coursera.org/learn/how-things-work"
+                },
+                {
+                    "name": "Consumo Consciente de Energia",
+                    "url": "http://eadsenaies.com.br/cursos-senai/consumo-consciente-de-energia/"
+                },
+                {
+                    "name": "Controle de Sistemas no Plano-s",
+                    "url": "https://pt.coursera.org/learn/controle-s"
+                },
+                {
+                    "name": "Controle Usando a Resposta em Frequência",
+                    "url": "https://pt.coursera.org/learn/resposta-frequencia"
+                },
+                {
+                    "name": "Engenharia reversa",
+                    "url": "https://pt.khanacademy.org/science/electrical-engineering/reverse-engin"
+                },
+                {
+                    "name": "Escrita fiscal",
+                    "url": "http://www.ead.senac.br/cursos-livres/escrita-fiscal/"
+                },
+                {
+                    "name": "Fundamentos de Logística",
+                    "url": "http://eadsenaies.com.br/cursos-senai/fundamentos-de-logistica/"
+                },
+                {
+                    "name": "Indústria da Madeira: Colheita, Empilhadeiras, Enlonamento e EPIs",
+                    "url": "http://eadsenaies.com.br/cursos-sesi}/industria-da-madeira-colheita-empilhadeiras-enlonamento-e-epis/"
+                },
+                {
+                    "name": "Indústria de Cal e Calcário: EPIs, EPCs, Movimentação de Cargas e Situações de Emergência.",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/industria-de-cal-e-calcario-epis-epcs-movimentacao-de-cargas-e-situacoes-de-emergencia/"
+                },
+                {
+                    "name": "Indústria Moveleira: Máquinas, EPIs e EPCs",
+                    "url": "http://eadsenaies.com.br/cursos-sesi}/industria-moveleira-maquinas-epis-e-epcs/"
+                },
+                {
+                    "name": "Introdução ao Controle de Sistemas",
+                    "url": "https://pt.coursera.org/learn/controle"
+                },
+                {
+                    "name": "Introdução ao Desenvolvimento Sustentável",
+                    "url": "https://pt.coursera.org/learn/sustainabledevelopment1"
+                },
+                {
+                    "name": "Introdução à sustentabilidade",
+                    "url": "https://pt.coursera.org/learn/sustainability"
+                },
+                {
+                    "name": "Legislação Ambiental",
+                    "url": "http://www.ead.senac.br/cursos-livres/legislacao-ambiental/"
+                },
+                {
+                    "name": "Legislação Trabalhista",
+                    "url": "http://www.ead.senac.br/cursos-livres/legislacao-trabalhista/"
+                },
+                {
+                    "name": "Metrologia",
+                    "url": "http://eadsenaies.com.br/cursos-senai/metrologia/"
+                },
+                {
+                    "name": "Noções Básicas de Mecânica Automotiva",
+                    "url": "http://eadsenaies.com.br/cursos-senai/nocoes-basicas-de-mecanica-automotiva/"
+                },
+                {
+                    "name": "O ciclo dos metais: a importância da mineração urbana para uma economia circular",
+                    "url": "https://pt.coursera.org/course}/metals"
+                },
+                {
+                    "name": "Robótica Lego",
+                    "url": "https://pt.khanacademy.org/science/electrical-engineering/lego-robotics"
+                },
+                {
+                    "name": "Trabalho em Altura",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/trabalho-em-altura/"
+                },
+                {
+                    "name": "Trabalho em Espaços Confinados",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/trabalho-em-espacos-confinados/"
+                }
+            ],
+            "name": "Engenharia"
+        },
+        {
+            "cursos": [
+                {
+                    "name": "Acordo Ortográfico: a nova ortografia da Língua Portuguesa",
+                    "url": "http://www.ead.senac.br/cursos-livres}/acordo-ortografico-a-nova-ortografia-da-lingua-portuguesa/"
+                },
+                {
+                    "name": "Alemão - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/alemao-foundation"
+                },
+                {
+                    "name": "Aprendendo a Aprender: poderosas ferramentas mentais para ajudá-lo a dominar temas complexos.",
+                    "url": "https://pt.coursera.org/learn/learning-how-to-learn"
+                },
+                {
+                    "name": "Chinês/Mandarim - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/chinesmandarim-foundation/"
+                },
+                {
+                    "name": "Comunicação Efetiva",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/comunicacao-efetiva/"
+                },
+                {
+                    "name": "Comunicação no Foco Organizacional",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/comunicacao-no-foco-organizacional/"
+                },
+                {
+                    "name": "Coreano - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/coreano-foundation/"
+                },
+                {
+                    "name": "Espanhol Espanha - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/espanhol-espanha-foundation/"
+                },
+                {
+                    "name": "Espanhol Latino - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/espanhol-latino-foundation/"
+                },
+                {
+                    "name": "Filipino - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/filipino-foundation/"
+                },
+                {
+                    "name": "Francês - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/frances-foundation/"
+                },
+                {
+                    "name": "Fundamentos do Google para o Ensino",
+                    "url": "https://pt.coursera.org/learn/fundamentosgoogle"
+                },
+                {
+                    "name": "Grego - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/grego-foundation/"
+                },
+                {
+                    "name": "Hebraico - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/hebraico-foundation/"
+                },
+                {
+                    "name": "Hindi - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/hindi-foundation/"
+                },
+                {
+                    "name": "Holandês - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/holandes-foundation/"
+                },
+                {
+                    "name": "Inglês Americano - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/ingles-americano-foundation/"
+                },
+                {
+                    "name": "Inglês Britânico - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/ingles-britanico-foundation/"
+                },
+                {
+                    "name": "Irlandês - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/irlandes-foundation/"
+                },
+                {
+                    "name": "Italiano - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/italiano-foundation/"
+                },
+                {
+                    "name": "Japonês - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/japones-foundation/"
+                },
+                {
+                    "name": "LIBRAS Básico - Língua Brasileira de Sinais",
+                    "url": "http://www.ead.senac.br/cursos-livres/libras-basico-lingua-brasileira-de-sinais/"
+                },
+                {
+                    "name": "Língua Portuguesa",
+                    "url": "http://ead.senac.br/cursos-livres/lingua-portuguesa"
+                },
+                {
+                    "name": "Persa - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/persa-foundation/"
+                },
+                {
+                    "name": "Pluralidades em Português Brasileiro",
+                    "url": "https://pt.coursera.org/learn/brasileiro-portugues"
+                },
+                {
+                    "name": "Polonês - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/polones-foundation/"
+                },
+                {
+                    "name": "Português - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/portugues-foundation/"
+                },
+                {
+                    "name": "Russo - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/russo-foundation/"
+                },
+                {
+                    "name": "Sueco - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/sueco-foundation/"
+                },
+                {
+                    "name": "Turco - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/turco-foundation/"
+                },
+                {
+                    "name": "Vietnamita - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/vietnamita-foundation/"
+                },
+                {
+                    "name": "Árabe - Foundation",
+                    "url": "http://www.ead.senac.br/cursos-livres/arabe-foundation/"
+                }
+            ],
+            "name": "Humanas"
+        },
+        {
+            "cursos": [
+                {
+                    "name": "Aritmética",
+                    "url": "https://pt.khanacademy.org/math/arithmetic"
+                },
+                {
+                    "name": "Cálculo",
+                    "url": "https://pt.khanacademy.org/math/calculus-home"
+                },
+                {
+                    "name": "Equações diferenciais",
+                    "url": "https://pt.khanacademy.org/math/differential-equations"
+                },
+                {
+                    "name": "Fundamentos de matemática",
+                    "url": "https://pt.khanacademy.org/math/early-math?t=table-of-contents"
+                },
+                {
+                    "name": "Geometria",
+                    "url": "https://pt.khanacademy.org/math/geometry-home"
+                },
+                {
+                    "name": "Introdução à Logica",
+                    "url": "https://pt.coursera.org/course/intrologic"
+                },
+                {
+                    "name": "Matemática Básica e Inclusão Digital",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/matematica-basica/"
+                },
+                {
+                    "name": "Matemática para o divertimento e a glória",
+                    "url": "https://pt.khanacademy.org/math/math-for-fun-and-glory"
+                },
+                {
+                    "name": "Probabilidade e estatística",
+                    "url": "https://pt.khanacademy.org/math/probability"
+                },
+                {
+                    "name": "Trigonometria",
+                    "url": "https://pt.khanacademy.org/math/trigonometry"
+                },
+                {
+                    "name": "Álgebra linear",
+                    "url": "https://pt.khanacademy.org/math/linear-algebra"
+                },
+                {
+                    "name": "Álgebra",
+                    "url": "https://pt.khanacademy.org/math/algebra-home"
+                }
+            ],
+            "name": "Matemática"
+        },
+        {
+            "cursos": [
+                {
+                    "name": "Administrando seu dinheiro",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/administrando-o-seu-dinheiro/"
+                },
+                {
+                    "name": "Administração de Conflitos",
+                    "url": "http://www.ead.senac.br/cursos-livres/administracao-de-conflitos/"
+                },
+                {
+                    "name": "As ideias centrais da microeconomia. Oferta, demanda e equilíbrio.",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium"
+                },
+                {
+                    "name": "Atendimento ao Cliente",
+                    "url": "http://www2.espm.br/cursos/educacao-distancia/cursos-abertos/atendimento-ao-cliente"
+                },
+                {
+                    "name": "Ações e títulos",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds"
+                },
+                {
+                    "name": "Ações Eficazes em Vendas",
+                    "url": "http://www.ead.senac.br/cursos-livres/acoes-eficazes-em-vendas/"
+                },
+                {
+                    "name": "Blackboard",
+                    "url": "http://www2.espm.br/cursos/educacao-distancia/cursos-abertos/blackboard"
+                },
+                {
+                    "name": "Capitalismo Consciente",
+                    "url": "https://pt.coursera.org/learn/capitalismo-consciente"
+                },
+                {
+                    "name": "Como Construir um Plano de Marketing para o seu Negócio",
+                    "url": "http://www.ead.senac.br/cursos-livres/como-construir-um-plano-de-marketing-para-o-seu-negocio/"
+                },
+                {
+                    "name": "Comportamento do Consumidor",
+                    "url": "http://www.ead.senac.br/cursos-livres/comportamento-do-consumidor/"
+                },
+                {
+                    "name": "Comunicação integrada",
+                    "url": "http://www2.espm.br/cursos/educacao-distancia/cursos-abertos/comunicacao-integrada"
+                },
+                {
+                    "name": "Configurando o mundo: uma abordagem crítica sobre a economia política",
+                    "url": "https://pt.coursera.org/course/configuringworld"
+                },
+                {
+                    "name": "Decisões de produção e lucro econômico",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/microeconomics/firm-economic-profit"
+                },
+                {
+                    "name": "Declarações contábeis e financeiras",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme"
+                },
+                {
+                    "name": "Demanda e oferta agregada",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/macroeconomics/aggregate-supply-demand-topic"
+                },
+                {
+                    "name": "Dinheiro, operações bancárias e bancos centrais",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/core-financ}e/money-and-banking"
+                },
+                {
+                    "name": "E-mail Marketing",
+                    "url": "http://www.ead.senac.br/cursos-livres/e-mail-marketing/"
+                },
+                {
+                    "name": "Elasticidade",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/microeconomics/elasticity-tutorial"
+                },
+                {
+                    "name": "Empreendedorismo",
+                    "url": "http://eadsenaies.com.br/cursos-senai/empreendedorismo/"
+                },
+                {
+                    "name": "Empreendedorismo",
+                    "url": "http://www2.espm.br/cursos/educacao-distancia/cursos-abertos/empreendedorismo"
+                },
+                {
+                    "name": "Endomarketing",
+                    "url": "http://www.ead.senac.br/cursos-livres/endomarketing/"
+                },
+                {
+                    "name": "Escassez, possibilidades, preferências e custo de oportunidade",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/microeconomics/choices-opp-cost-tutorial"
+                },
+                {
+                    "name": "Estilo e Imagem Pessoal Masculino",
+                    "url": "http://www.ead.senac.br/cursos-livres/estilo-e-imagem-pessoal-masculino/"
+                },
+                {
+                    "name": "Estilo e Imagem Pessoal",
+                    "url": "http://www.ead.senac.br/cursos-livres/estilo-e-imagem-pessoal-webtv"
+                },
+                {
+                    "name": "Estilos Femininos e Imagem Pessoal",
+                    "url": "http://www.ead.senac.br/cursos-livres/estilos-femininos-e-imagem-pessoal/"
+                },
+                {
+                    "name": "Estratégias de Negociação",
+                    "url": "http://www.ead.senac.br/cursos-livres/estrategias-de-negociacao/"
+                },
+                {
+                    "name": "Finanças Pessoais - Planejamento e Controle - WEBTV",
+                    "url": "http://www.ead.senac.br/cursos-livres/financas-pessoais-planejamento-e-controle-webtv/"
+                },
+                {
+                    "name": "Finanças Pessoais",
+                    "url": "http://eadsenaies.com.br/cursos-senai/financas-pessoais/"
+                },
+                {
+                    "name": "Formas de concorrência",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/microeconomics/perfect-competition-topic"
+                },
+                {
+                    "name": "Função do consumo. Propensão marginal ao consumo e o multiplicador. Cruz keynesiana e modelo IS-LM.",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic"
+                },
+                {
+                    "name": "Gerenciamento de Projetos: O Essencial para o Sucesso",
+                    "url": "https://pt.coursera.org/learn/project-management-basics"
+                },
+                {
+                    "name": "Gerência de Lojas",
+                    "url": "http://www.ead.senac.br/cursos-livres/gerencia-de-lojas/"
+                },
+                {
+                    "name": "Gestão de Salões de Beleza",
+                    "url": "http://www.ead.senac.br/cursos-livres/gestao-de-saloes-de-beleza-webtv/"
+                },
+                {
+                    "name": "Impostos",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/core-finance/taxes-topic"
+                },
+                {
+                    "name": "Inflação - medindo o custo de vida",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/macroeconomics/inflation-topic"
+                },
+                {
+                    "name": "Inflação",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial"
+                },
+                {
+                    "name": "Introdução ao Marketing Analítico",
+                    "url": "https://pt.coursera.org/learn/marketing-analitico"
+                },
+                {
+                    "name": "Juro e dívida",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial"
+                },
+                {
+                    "name": "Liderança de Equipes",
+                    "url": "http://www2.espm.br/cursos/educacao-distancia/cursos-abertos/lideranca-de-equipes"
+                },
+                {
+                    "name": "Mais eficiência, menos trabalho: Gestão do tempo e a melhora da produtividade pessoal & profissional",
+                    "url": "https://pt.coursera.org/learn/work-smarter-not-harder"
+                },
+                {
+                    "name": "Marketing digital",
+                    "url": "http://www.ead.senac.br/cursos-livres/marketing-digital/"
+                },
+                {
+                    "name": "Marketing nas Redes Sociais",
+                    "url": "http://www.ead.senac.br/cursos-livres/marketing-nas-redes-sociais/"
+                },
+                {
+                    "name": "Marketing no Universo Digital",
+                    "url": "https://pt.coursera.org/learn/marketing-digital"
+                },
+                {
+                    "name": "Marketing no Universo Digital",
+                    "url": "https://pt.coursera.org/learn/marketing-digital"
+                },
+                {
+                    "name": "Marketing no Universo Digital",
+                    "url": "https://pt.coursera.org/learn/marketing-digital"
+                },
+                {
+                    "name": "Marketing Social",
+                    "url": "http://www.ead.senac.br/cursos-livres/marketing-social/"
+                },
+                {
+                    "name": "Matemática Comercial",
+                    "url": "http://www.ead.senac.br/cursos-livres/matematica-comercial/"
+                },
+                {
+                    "name": "Moradia",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/core-finance/housing"
+                },
+                {
+                    "name": "Negociações de sucesso: estratégias e habilidades essenciais",
+                    "url": "https://pt.coursera.org/learn/negotiation-skills"
+                },
+                {
+                    "name": "Negociações de sucesso: estratégias e habilidades essenciais",
+                    "url": "https://pt.coursera.org/learn/negotiation-skills"
+                },
+                {
+                    "name": "O Empreendedorismo e as Competências do Empreendedor",
+                    "url": "https://pt.coursera.org/learn/empreendedorismo"
+                },
+                {
+                    "name": "O Poder da Macroeconomia: Princípios da Economia no Mundo Real",
+                    "url": "https://pt.coursera.org/learn/macroeconomia-pt"
+                },
+                {
+                    "name": "O sistema monetário",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic"
+                },
+                {
+                    "name": "Os Fundamentos da Estratégia de Negócios",
+                    "url": "https://pt.coursera.org/learn/foundations-business-strategy"
+                },
+                {
+                    "name": "Planejamento Estratégico",
+                    "url": "http://www.ead.senac.br/cursos-livres/planejamento-estrategico/"
+                },
+                {
+                    "name": "Posicionamento. Como sua marca deve se comportar no mercado",
+                    "url": "http://www.ead.senac.br/cursos-livres/posicionamento-como-sua-marca-deve-se-comportar-no-mercado/"
+                },
+                {
+                    "name": "Princípio de Microeconomia",
+                    "url": "https://pt.coursera.org/course/microecon"
+                },
+                {
+                    "name": "Processos Logísticos de Estoques e Compras",
+                    "url": "http://www.ead.senac.br/cursos-livres/processos-logisticos-de-estoques-e-compras/"
+                },
+                {
+                    "name": "Produto Interno Bruto",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic"
+                },
+                {
+                    "name": "Propriedade Intelectual",
+                    "url": "http://eadsenaies.com.br/cursos-senai/propriedade-intelectual/"
+                },
+                {
+                    "name": "Qualidade no Atendimento e Postura Profissional",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/qualidade-no-atendimento-e-postura-profissional/"
+                },
+                {
+                    "name": "Redação Administrativa",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/redacao-administrativa/"
+                },
+                {
+                    "name": "Serviços a clientes: diferenciação da oferta",
+                    "url": "http://www2.espm.br/cursos/educacao-distancia/cursos-abertos/servicos-clientes-diferenciacao-da-oferta"
+                },
+                {
+                    "name": "Teoria dos jogos e equilíbrio de Nash",
+                    "url": "https://pt.khanacademy.org/economics-finance-domain/microeconomics/nash-equilibrium-tutorial"
+                },
+                {
+                    "name": "Tomada de Decisão no Ambiente Organizacional",
+                    "url": "http://www.ead.senac.br/cursos-livres/tomada-de-decisao-no-ambiente-organizacional/"
+                },
+                {
+                    "name": "Técnicas Campeãs de Vendas",
+                    "url": "http://www.ead.senac.br/cursos-livres/tecnicas-campeas-de-vendas"
+                },
+                {
+                    "name": "Técnicas de Fidelização - Fazendo o Cliente Voltar",
+                    "url": "http://www.ead.senac.br/cursos-livres/tecnicas-de-fidelizacao-fazendo-o-cliente-voltar/"
+                },
+                {
+                    "name": "Técnicas de Vendas",
+                    "url": "http://www2.espm.br/cursos/educacao-distancia/cursos-abertos/tecnicas-de-vendas"
+                }
+            ],
+            "name": "Negócios e Gerência"
+        },
+        {
+            "cursos": [
+                {
+                    "name": "Arquitetura de Software em Projetos Ágeis",
+                    "url": "https://pt.coursera.org/learn/arquitetura-de-software-projetos-ageis"
+                },
+                {
+                    "name": "Bem-vindo ao SQL",
+                    "url": "https://pt.khanacademy.org/computing/hour-of-code/hour-of-sql/v/welcome-to-sql"
+                },
+                {
+                    "name": "Como aprimorar e monetizar seu aplicativo para iOS e Apple Watch",
+                    "url": "https://pt.coursera.org/learn/ios-avancado"
+                },
+                {
+                    "name": "Como criar aplicativos com múltiplas telas para iPhone e iPad",
+                    "url": "https://pt.coursera.org/learn/multiplas-telas-iphone"
+                },
+                {
+                    "name": "Como criar jogos 2D para iPhone e iPad",
+                    "url": "https://pt.coursera.org/learn/ios-jogos"
+                },
+                {
+                    "name": "Como criar um aplicativo para iPhone",
+                    "url": "https://pt.coursera.org/learn/aplicativo-para-iphone"
+                },
+                {
+                    "name": "Crie e publique aplicativos para iPhone, iPad e Apple Watch",
+                    "url": "https://pt.coursera.org/specializations/desenvolvimento-aplicativos"
+                },
+                {
+                    "name": "Desenvolva Programas de Forma Ágil e com Qualidade",
+                    "url": "https://pt.coursera.org/specializations/programacao-java-e-agil"
+                },
+                {
+                    "name": "Desenvolva Programas de Forma Ágil e com Qualidade",
+                    "url": "https://pt.coursera.org/specializations/programacao-java-e-agil"
+                },
+                {
+                    "name": "Desenvolvimento Ágil com Java Avançado",
+                    "url": "https://pt.coursera.org/learn/desenvolvimento-agil-com-java-avancado"
+                },
+                {
+                    "name": "Desenvolvimento Ágil com Padrões de Projeto",
+                    "url": "https://pt.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto"
+                },
+                {
+                    "name": "Design Centrado no Ser Humano: Introdução",
+                    "url": " https://pt.coursera.org/learn/human-computer-interaction"
+                },
+                {
+                    "name": "Excel 2010 - Recursos Básicos",
+                    "url": "http://www.ead.senac.br/cursos-livres/excel-2010-recursos-basicos/"
+                },
+                {
+                    "name": "Excel 2010 -Recursos Avançados",
+                    "url": "http://www.ead.senac.br/cursos-livres/excel-2010-recursos-avancados/"
+                },
+                {
+                    "name": "HTML/JS: tornando páginas web interativas com jQuery",
+                    "url": "https://pt.khanacademy.org/computing/computer-programming/html-js-jquery"
+                },
+                {
+                    "name": "HTML/JS: tornando páginas web interativas",
+                    "url": "https://pt.khanacademy.org/computing/computer-programming/html-css-js"
+                },
+                {
+                    "name": "Informática Básica com Internet e Mídias Sociais",
+                    "url": "http://ead.senac.br/cursos-livres/informatica-basica-com-internet-e-midias-sociais-psg/"
+                },
+                {
+                    "name": "Introdução a HTML/CSS: criação de páginas Web",
+                    "url": "https://pt.khanacademy.org/computing/computer-programming/html-css"
+                },
+                {
+                    "name": "Introdução a JavaScript: Desenho & Animação",
+                    "url": "https://pt.khanacademy.org/computing/computer-programming/programming"
+                },
+                {
+                    "name": "Introdução a SQL: Consulta e gerenciamento de dados",
+                    "url": "https://pt.khanacademy.org/computing/computer-programming/sql"
+                },
+                {
+                    "name": "JavaScript Avançado: Jogos & Visualizações",
+                    "url": "https://pt.khanacademy.org/computing/computer-programming/programming-games-visualizations"
+                },
+                {
+                    "name": "JS avançado: Simulações Naturais",
+                    "url": "https://pt.khanacademy.org/computing/computer-programming/programming-natural-simulations"
+                },
+                {
+                    "name": "Lógica de Programação",
+                    "url": "http://eadsenaies.com.br/cursos-senai/logica-de-programacao/ "
+                },
+                {
+                    "name": "Orientação a Objetos com Java",
+                    "url": "https://pt.coursera.org/learn/orientacao-a-objetos-com-java"
+                },
+                {
+                    "name": "Princípios de Desenvolvimento Ágil de Software",
+                    "url": "https://pt.coursera.org/learn/principios-de-desenvolvimento-agil-de-software"
+                },
+                {
+                    "name": "Projeto Final: Aplicativo para Web com Componente Gamificado",
+                    "url": "https://pt.coursera.org/learn/projeto-final--aplicativo-para-web-com-componente-gamificado"
+                },
+                {
+                    "name": "Segurança cibernética e seus dez domínios de atuação",
+                    "url": "https://pt.coursera.org/learn/cyber-security-domain"
+                },
+                {
+                    "name": "TDD – Desenvolvimento de Software Guiado por Testes",
+                    "url": "https://pt.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes"
+                },
+                {
+                    "name": "Tecnologia da Informação e Comunicação",
+                    "url": "http://eadsenaies.com.br/cursos-senai/tecnologia-da-informacao-e-comunicacao/"
+                },
+                {
+                    "name": "Técnicas Avançadas para Projeto de Software",
+                    "url": "https://pt.coursera.org/learn/tecnicas-avancadas-para-projeto-de-software"
+                }
+            ],
+            "name": "Programação"
+        },
+        {
+            "cursos": [
+                {
+                    "name": "Aproveitamento integral de alimentos",
+                    "url": "http://www.ead.senac.br/cursos-livres/aproveitamento-integral-de-alimentos-webtv/"
+                },
+                {
+                    "name": "Boas Práticas e Controles Operacionais Essenciais para Serviços de Alimentação (NBR 15635)",
+                    "url": "http://www.ead.senac.br/cursos-livres/boas-praticas-e-controles-operacionais-essenciais-para-servicos-de-alimentacao-nbr-15635/"
+                },
+                {
+                    "name": "Boas Práticas para Serviços de Alimentação e Distribuição",
+                    "url": "http://www.ead.senac.br/cursos-livres/boas-praticas-para-servicos-de-alimentacao-e-distribuicao/"
+                },
+                {
+                    "name": "Brigadeiro Gourmet",
+                    "url": "http://www.ead.senac.br/cursos-livres/brigadeiro-gourmet-webtv/"
+                },
+                {
+                    "name": "Congelamento de Alimentos",
+                    "url": "http://www.ead.senac.br/cursos-livres/congelamento-de-alimentos-webtv/"
+                },
+                {
+                    "name": "Cozinha Fácil e Rápida",
+                    "url": "http://www.ead.senac.br/cursos-livres/cozinha-facil-e-rapida-webtv/"
+                },
+                {
+                    "name": "Cozinha Italiana",
+                    "url": "http://www.ead.senac.br/cursos-livres/cozinha-italiana-webtv/"
+                },
+                {
+                    "name": "Cozinha Vegetariana",
+                    "url": "http://www.ead.senac.br/cursos-livres/cozinha-vegetariana-webtv/"
+                },
+                {
+                    "name": "Cozinha Árabe",
+                    "url": "http://www.ead.senac.br/cursos-livres/cozinha-arabe-webtv/"
+                },
+                {
+                    "name": "Culinária Light e Diet",
+                    "url": "http://www.ead.senac.br/cursos-livres/culinaria-light-e-diet-webtv/"
+                },
+                {
+                    "name": "Culinária Trivial",
+                    "url": "http://www.ead.senac.br/cursos-livres/culinaria-trivial-webtv/"
+                },
+                {
+                    "name": "Departamento de A&B (alimentos & bebidas) na Hotelaria",
+                    "url": "http://www.ead.senac.br/cursos-livres/departamento-de-ab-alimentos-bebidas-na-hotelaria/"
+                },
+                {
+                    "name": "Enogastronomia",
+                    "url": "http://www.ead.senac.br/cursos-livres/enogastronomia-webtv/"
+                },
+                {
+                    "name": "Gastronomia Funcional",
+                    "url": "http://www.ead.senac.br/cursos-livres/gastronomia-funcional-webtv/"
+                },
+                {
+                    "name": "Introdução aos vinhos",
+                    "url": "http://www.ead.senac.br/cursos-livres/introducao-aos-vinhos-webtv/"
+                },
+                {
+                    "name": "Preparo de Biscoitos/Bolachas",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-biscoitosbolachas-webtv/"
+                },
+                {
+                    "name": "Preparo de Bombons",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-bombons-webtv/"
+                },
+                {
+                    "name": "Preparo de Carnes, Aves e Peixes",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-carnes,-aves-e-peixes-webtv/"
+                },
+                {
+                    "name": "Preparo de doces espelhados e glaceados",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-de-doces-espelhados-e-glaceados-webtv/"
+                },
+                {
+                    "name": "Preparo de docinhos básicos",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-docinhos-basicos-webtv/"
+                },
+                {
+                    "name": "Preparo de Drinques e Coquetéis",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-drinques-e-coqueteis-webtv/"
+                },
+                {
+                    "name": "Preparo de Finger Food",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-finger-food-webtv/"
+                },
+                {
+                    "name": "Preparo de Massas",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-massas-webtv/"
+                },
+                {
+                    "name": "Preparo de Molhos",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-molhos-webtv/"
+                },
+                {
+                    "name": "Preparo de papinhas para bebês",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-papinhas-para-bebes-webtv"
+                },
+                {
+                    "name": "Preparo de Pizzas",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-pizzas-webtv/"
+                },
+                {
+                    "name": "Preparo de Risotos",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-risotos-webtv/"
+                },
+                {
+                    "name": "Preparo de Sobremesas",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-sobremesas-webtv/"
+                },
+                {
+                    "name": "Preparo de Sopas",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-sopas-webtv"
+                },
+                {
+                    "name": "Preparo de Verrines e Cupcakes",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-de-verrines-e-cupcakes-webtv/"
+                },
+                {
+                    "name": "Preparo e decoração de bolos",
+                    "url": "http://www.ead.senac.br/cursos-livres/preparo-e-decoracao-de-bolos-webtv/"
+                },
+                {
+                    "name": "Prevenção ao Câncer de Pele",
+                    "url": "http://eadsenaies.com.br/cursos-sesi/prevencao-ao-cancer-de-pele/"
+                },
+                {
+                    "name": "Recepcionista em Meios de Hospedagem",
+                    "url": "http://www.ead.senac.br/cursos-livres/recepcionista-em-meios-de-hospedagem/"
+                },
+                {
+                    "name": "Salgados para Confeitaria",
+                    "url": "http://www.ead.senac.br/cursos-livres/salgados-para-confeitaria-webtv/"
+                },
+                {
+                    "name": "Segurança do Trabalho",
+                    "url": "http://eadsenaies.com.br/cursos-senai/seguranca-do-trabalho/"
+                },
+                {
+                    "name": "Tortas Doces e Salgadas",
+                    "url": "http://www.ead.senac.br/cursos-livres/tortas-doces-e-salgadas-webtv/"
+                }
+            ],
+            "name": "Saúde e Medicina"
+        }
+    ]
+}
